@@ -10,10 +10,10 @@ Projek Akhir Semester Praktikum Pemrograman Berorientasi Objek
 # Antarmuka Daftar Rekening Baru
 ![3_Daftar Rekening Baru](https://user-images.githubusercontent.com/60762912/123563458-45005900-d7e7-11eb-82a5-f1026138155c.PNG)
 
-# Antarmuka Tambah Rekening Biasa
+# Antarmuka Tambah Rekening Nasabah
 ![4_Tambah Rekening Biasa](https://user-images.githubusercontent.com/60762912/123563478-64978180-d7e7-11eb-96bb-13d68ed34597.png)
 
-# Antarmuka Tambah Rekening Bisnis Baru
+# Antarmuka Tambah Rekening Bisnis
 ![5_Daftar Rekening Bisnis Baru](https://user-images.githubusercontent.com/60762912/123563494-885ac780-d7e7-11eb-842b-e6739e4ec749.png)
 
 # Antarmuka Penyetoran
