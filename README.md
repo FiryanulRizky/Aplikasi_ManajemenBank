@@ -1,7 +1,7 @@
 # Aplikasi_ManajemenTokoBuku
 Projek Akhir Semester Praktikum Pemrograman Berorientasi Objek
 
-# Antarmuka Login
+# Antarmuka Login Teller
 ![bank1](https://user-images.githubusercontent.com/60762912/123564692-eb029200-d7ec-11eb-848c-4e4766bf58e5.PNG)
 
 # Antarmuka Dashboard Teller
