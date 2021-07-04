@@ -1,4 +1,4 @@
-# Aplikasi_ManajemenTokoB
+# Aplikasi_ManajemenBank
 Projek Akhir Semester Praktikum Pemrograman Berorientasi Objek
 
 # Antarmuka Login Teller
