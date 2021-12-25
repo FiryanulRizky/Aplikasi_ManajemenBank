@@ -1,5 +1,5 @@
 # Aplikasi_ManajemenBank
-Projek Akhir Semester Praktikum Basis Data
+Projek BPD Karangasem 2020
 
 # Antarmuka Login Teller
 ![bank1](https://user-images.githubusercontent.com/60762912/123564692-eb029200-d7ec-11eb-848c-4e4766bf58e5.PNG)
